@@ -1,11 +1,12 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-7.3.md
+Assignment 7.3 — Responsive Product Listing[cite: 33]
+What to build: A responsive product listing of product cards[cite: 33].
+Steps:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Create at least 6 product cards[cite: 33].
+2. Add an image, name, price, and button to each card[cite: 33].
+3. Use `display: flex` and `flex-wrap: wrap` on the container[cite: 33].
+4. Add spacing between cards using `gap`[cite: 33].
+5. Experiment with `flex-grow`, `flex-shrink`, and `flex-basis`[cite: 33].
+6. Cards should wrap to the next line when the screen gets smaller[cite: 33].
+Submission: Responsive product listing and screenshots at desktop and mobile widths[cite: 33].
